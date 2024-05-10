@@ -1,8 +1,9 @@
 <img src="https://wallpaperaccess.com/full/3457552.jpg" alt="Wallpaper" width="800" height="350">
 
-## I am Emmanuel
+## I am Emmanuel 
 A passionate individual transitioning into tech, specializing in Data Analytics and Machine Learning. I am dedicated to leveraging data-driven insights and advanced algorithms to solve complex business problems to enhance business growth. Proficient in data visualization tools (Tableau and Power BI) as well. I am committed to continuous learning and contributing to impactful projects.
-You can check out my linkedIn at [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)
+#### `You can check out my:`
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuel-dadson) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edadso)
 #
 <h3 align="left">🧾 Additional Information:</h3>
 
@@ -25,9 +26,6 @@ You can check out my linkedIn at [Emmanuel Dadson](https://www.linkedin.com/in/e
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edadso&" alt="edadso" /></p>
   
-
-
-
 
 
 
