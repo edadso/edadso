@@ -1,6 +1,6 @@
-### Hi there 👋, I am Emmanuel
-<img src="https://wallpaperaccess.com/full/3457552.jpg" alt="Wallpaper" width="600" height="250">
+<img src="https://wallpaperaccess.com/full/3457552.jpg" alt="Wallpaper" width="800" height="350">
 
+## I am Emmanuel
 A passionate individual transitioning into tech, specializing in Data Analytics and Machine Learning. I am dedicated to leveraging data-driven insights and advanced algorithms to solve complex business problems to enhance business growth. Proficient in data visualization tools (Tableau and Power BI) as well. I am committed to continuous learning and contributing to impactful projects.
 You can check out my linkedIn at [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)
 #
